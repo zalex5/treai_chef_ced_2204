@@ -1,0 +1,9 @@
+DEPENDENCIES
+  ced_2204
+    path: .
+    metadata: true
+
+GRAPH
+  apt (7.5.1)
+  ced_2204 (0.1.0)
+    apt (>= 0.0.0)
